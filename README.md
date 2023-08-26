@@ -1,6 +1,6 @@
 # -Machine-Learning-Analysis-of-New-Coder-Survey-Data
 
-This project presents an individual project that applies machine learning techniques to analyze real-world data from "the 2018 freeCodeCamp New Coder Survey". The primary objective is to gain insights into the characteristics of new coders and predict their income levels based on various attributes. The dataset is publicly available on Kaggle: Dataset Link.
+This project presents an individual project that applies machine learning techniques to analyze real-world data from "the 2018 freeCodeCamp New Coder Survey". The primary objective is to gain insights into the characteristics of new coders and predict their income levels based on various attributes. The dataset is publicly available on Kaggle.
 
 Introduction In this project, I implement machine learning tasks using Python programming, adhering to the CRISP-DM methodology. The primary tasks include exploratory data analysis, cluster analysis, and classification using machine learning algorithms. Through these tasks, I aim to gain a deeper understanding of the dataset and extract meaningful insights.
 
